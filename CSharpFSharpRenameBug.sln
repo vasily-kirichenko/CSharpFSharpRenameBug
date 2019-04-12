@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFSharpRenameBug", "CSharpFSharpRenameBug\CSharpFSharpRenameBug.csproj", "{B5CF7FD6-BE57-40A7-A127-4C5B9AC216A3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApp", "ConsoleApp\ConsoleApp.fsproj", "{5F03729A-A2B2-476E-BB1B-7DC37ED19B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5CF7FD6-BE57-40A7-A127-4C5B9AC216A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CF7FD6-BE57-40A7-A127-4C5B9AC216A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CF7FD6-BE57-40A7-A127-4C5B9AC216A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CF7FD6-BE57-40A7-A127-4C5B9AC216A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F03729A-A2B2-476E-BB1B-7DC37ED19B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F03729A-A2B2-476E-BB1B-7DC37ED19B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F03729A-A2B2-476E-BB1B-7DC37ED19B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F03729A-A2B2-476E-BB1B-7DC37ED19B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
